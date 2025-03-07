@@ -24,5 +24,14 @@ public class Operadores {
     
     System.out.println(variavel);
 
+
+    int numero1 = 1;
+    int numero2 = 2;
+
+    if (numero1 < numero2) {
+        System.out.println("a nossa condiçao é verdadeira");
+     
+        }
+
+        }
     }
-}
